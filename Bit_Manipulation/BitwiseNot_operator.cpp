@@ -11,6 +11,7 @@ using namespace std;
     cout<<m<<endl;
     cout<<"Ans:"<<~m;
     cout<<endl<<~test;
+    
     return 0;
 
  }
