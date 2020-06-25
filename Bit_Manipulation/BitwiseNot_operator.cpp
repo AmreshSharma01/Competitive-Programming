@@ -13,7 +13,7 @@ using namespace std;
     cout<<endl<<~test;
 
 
-    
-    return 0;
+   
+
 
  }
