@@ -28,7 +28,7 @@ void showlist(list<int> &l){
     }
 }
 
-// Main function 
+
 int main() 
 { 
 	list<int> mylist{ 1, 2, 2, 2, 5, 6, 7 }; 
