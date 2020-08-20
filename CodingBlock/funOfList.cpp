@@ -20,7 +20,7 @@ int main()
     it++;
     it++;
     li.erase(it);
-
+//special focus on iterating the list elements while inserting and erasing
 //inserting at asked position
     it=li.begin();
     int pos;
