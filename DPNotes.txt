@@ -1,0 +1,6 @@
+link for grid based dp
+https://www.hackerearth.com/practice/notes/dynamic-programming-problems-involving-grids/
+
+imp question:maximum sum rectangle in a 2d matrix
+https://www.tutorialcup.com/interview/dynamic-programming/maximum-sum-rectangle-in-a-2d-matrix.htm
+//      lnk 2: https://www.youtube.com/watch?v=-FgseNO-6Gk&ab_channel=BackToBackSWE
